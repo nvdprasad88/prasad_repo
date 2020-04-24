@@ -1,6 +1,7 @@
 package com.teja.coreconcepts;
 
 public class Employee {
+	private String empId;
 	private String name;
 	
 	public String getName() {
